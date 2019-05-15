@@ -1,0 +1,50 @@
+body{
+    background-image: url(../Images/twinkle.png);
+    color: aliceblue;
+    font-size: 25px;
+    text-align: center;
+    width: 1000px;
+    padding: 50px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+   font-family: 'Baloo Bhai';
+    font-size: 50pt;
+    text-align: center;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    background-color: darkslateblue
+}
+
+p {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    background-color: darkslateblue;
+    margin: auto;
+    font-size: 20pt;
+    padding: 15px;
+}
+
+a {
+    font-size: 30px;
+    color: palevioletred;
+}
+video{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 12px solid white;
+}
+
+img {
+    border: 12px solid white;
+    box-shadow: 5px 5px 5px rgba(0,0,0,.3);
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+a:hover {
+    color: #fff;}
